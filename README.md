@@ -7,7 +7,7 @@ This Jupyter Notebook contains exploratory data analysis (EDA) and visualization
 File: Heart_Disease_EDA_and_Visualization.ipynb
 
 ## Note
-- All outputs in the notebook have been cleared to reduce file size. Please rerun the notebook to view outputs and visualizations.
+- Plotly plot outputs in the notebook have been cleared to reduce file size. Please rerun the notebook to view all outputs and visualizations.
 - For the full dataset, please refer to the [source website on Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease).
 
 ## Module Information
